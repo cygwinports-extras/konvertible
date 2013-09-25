@@ -1,5 +1,0 @@
-inherit kde4
-
-DESCRIPTION="KDE frontend to FFmpeg"
-HOMEPAGE="http://msnkambule.wordpress.com/konvertible/"
-SRC_URI="http://KDE-Apps.org/CONTENT/content-files/116892-${P}.tar.bz2"
